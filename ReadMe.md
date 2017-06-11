@@ -1,1 +1,2 @@
-# Javascript Guide (Technical Documentation Page)
+# Javascript Guide for beginners
+## Technical Documentation Page
